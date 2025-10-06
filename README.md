@@ -18,7 +18,7 @@ cd fraud-detection-ga
 pip install -r requirements.txt
 
 
-Methodology
+## Methodology
 
 Genetic Algorithm (GA) is used to select the most relevant features.
 
@@ -36,7 +36,7 @@ Logistic Regression
 
 Performance metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
 
-📈 Results
+ ## 📈 Results
 
 Example metrics from different feature vectors:
 
