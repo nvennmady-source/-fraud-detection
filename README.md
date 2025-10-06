@@ -17,29 +17,30 @@ git clone https://github.com/nvennmady-source/fraud-detection-ga.git
 cd fraud-detection-ga
 pip install -r requirements.txt
 
+## Methodology  
 
-## Methodology
+Genetic Algorithm (GA) is used to select the most relevant features from the dataset.  
+The following models are trained and evaluated:  
 
-Genetic Algorithm (GA) is used to select the most relevant features.
+- Random Forest  
+- Decision Tree  
+- Artificial Neural Network (MLPClassifier)  
+- Naive Bayes  
+- Logistic Regression  
 
-The following models are trained and evaluated:
+**Performance metrics evaluated:**  
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+- ROC-AUC  
 
-Random Forest
+---
 
-Decision Tree
+## 📈 Results  
 
-Artificial Neural Network (MLPClassifier)
+Example metrics from different feature vectors:  
 
-Naive Bayes
+- **Random Forest** achieved the highest accuracy and recall.  
+- **Artificial Neural Network (ANN)** provided competitive performance with a balanced F1-score.  
 
-Logistic Regression
-
-Performance metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
-
- ## 📈 Results
-
-Example metrics from different feature vectors:
-
-Random Forest achieved the highest accuracy and recall.
-
-ANN provided competitive performance with balanced F1-score.
