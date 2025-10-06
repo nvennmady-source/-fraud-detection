@@ -6,7 +6,7 @@ This project applies **Genetic Algorithm (GA)** for **feature selection** and ev
 The dataset used is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.  
 It contains transactions made by European cardholders in September 2013, with **492 frauds out of 284,807 transactions**.
 
-⚠️ The dataset is too large to upload to GitHub. Please download it from Kaggle and place it in the project root as:
+⚠️ The dataset is too large to upload to GitHub. Please download it from Kaggle and place it in the project root as:creditcard.csv
 
 
 
