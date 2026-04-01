@@ -37,7 +37,7 @@ The following models are trained and evaluated:
 
 ---
 
-## 📈 Results  
+## Results  
 
 Example metrics from different feature vectors:  
 
